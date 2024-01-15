@@ -63,8 +63,8 @@ export const RESUME_DATA = {
     "React",
     "Angular",
     "Linux",
-    "StorybookJS",
-    "Design Systems",
+    "Docker",
+    "Storybook",
   ],
   projects: [
     {
