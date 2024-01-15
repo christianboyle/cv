@@ -104,27 +104,15 @@ export const RESUME_DATA = {
       techStack: ["AngularJS", "PHP"],
       description:
         "Greenfield project to convert existing SaaS MPA to AngularJS SPA",
-      link: {
-        label: "voice 2",
-      },
     },
     {
-      title: "ChristianBoyle.com",
+      title: "christianboyle.com",
       techStack: ["Side Project", "RWD", "Houdini"],
       description:
         "My personal website and dev experiment playground",
       link: {
         label: "christianboyle.com",
         href: "https://christianboyle.com/",
-      },
-    },
-    {
-      title: "Mayer Media Design",
-      techStack: ["jQuery", "Magento", "Wordpress"],
-      description:
-        "Standards-compliant frontend development on over 100 marketing sites and led transition from table-based to CSS-based architecture",
-      link: {
-        label: "mayermediadesign.com",
       },
     },
   ],
