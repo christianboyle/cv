@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
+import { GCScript } from "next-goatcounter";
 
 import "./globals.css";
 import React from "react";
@@ -21,8 +22,11 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className={inter.className}>
-      <body>{children}</body>
+    <html lang="en" className={inter.className} suppressHydrationWarning={true}>
+      <body suppressHydrationWarning={true}>
+      <GCScript siteUrl={"https://cdb.goatcounter.com/count"} />
+          {children}
+        </body>
     </html>
   );
 }

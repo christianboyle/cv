@@ -9,7 +9,7 @@ export const RESUME_DATA = {
     "Frontend Engineer focused on building products with extra attention to detail",
   summary:
     "As a Frontend Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, Angular, and Bootstrap. I have over 13 years of experience working remotely with teammates all around the world.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1605754?v=4",
+  avatarUrl: "https://media.licdn.com/dms/image/D5603AQE_4pBSpEsesg/profile-displayphoto-shrink_800_800/0/1692060783695?e=1710979200&v=beta&t=LvfPfBPY6OJBUsOcNr5emE7dOGcQ_a7YU_Ir_3MYfNY",
   personalWebsiteUrl: "https://christianboyle.com",
   contact: {
     email: "mail@christianboyle.com",
