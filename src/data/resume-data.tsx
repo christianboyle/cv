@@ -77,7 +77,7 @@ export const RESUME_DATA = {
       description: "Greenfield project to convert our existing SaaS to a modern codebase and architecture",
       link: {
         label: "advocateflex",
-        href: "https://www.symplicity.com/success-stories/advocate-at-kennesaw-state-university-with-advocate-flex/",
+        href: "https://www.symplicity.com/introduction-advocate-flex",
       },
     },
     {
