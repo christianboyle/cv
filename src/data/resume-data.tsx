@@ -7,8 +7,7 @@ export const RESUME_DATA = {
   locationLink: "https://www.google.com/maps/place/Fairway,+KS",
   about:
     "Frontend Engineer focused on building products with extra attention to detail",
-  summary:
-    "As a Frontend Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, Angular, and Bootstrap. I have over 13 years of experience working remotely with teammates all around the world.",
+  summary: "I am a passionate and proficient Frontend Engineer who has successfully launched and scaled multiple products across different domains and platforms. Recently, I led a team of six frontend engineers to deliver a high-performance web app that increased user engagement by over 50%. I have over 13 years of experience working remotely with teammates all around the world. I am proficient in TypeScript, Angular, and Bootstrap, and interested in learning and working with React.",
   avatarUrl: "https://avatars.githubusercontent.com/u/1605754",
   personalWebsiteUrl: "https://christianboyle.com",
   contact: {
