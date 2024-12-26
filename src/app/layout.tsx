@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
-import { GCScript } from "next-goatcounter";
 
 import "./globals.css";
 import React from "react";
@@ -24,9 +23,24 @@ export default function RootLayout({
   return (
     <html lang="en" className={inter.className} suppressHydrationWarning={true}>
       <body suppressHydrationWarning={true}>
-      <GCScript siteUrl={"https://cdb.goatcounter.com/count"} />
-          {children}
-        </body>
+        <script
+          data-goatcounter="https://cdb.goatcounter.com/count"
+          async
+          src="//gc.zgo.at/count.js"
+        />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.goatcounter = {
+                path: function(p) {
+                  return location.host + p;
+                }
+              };
+            `
+          }}
+        />
+        {children}
+      </body>
     </html>
   );
 }
