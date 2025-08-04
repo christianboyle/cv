@@ -6,8 +6,10 @@ export const RESUME_DATA = {
   location: "Fairway, Kansas, CST",
   locationLink: "https://www.google.com/maps/place/Fairway,+KS",
   about:
-    "Frontend Engineer focused on building products with extra attention to detail",
-  summary: "I am a passionate and proficient Frontend Engineer who has successfully launched and scaled multiple products across different domains and platforms. Recently, I led a team of six frontend engineers to deliver a high-performance web app that increased user engagement by over 50%. I have over 13 years of experience working remotely with teammates all around the world. I am proficient in TypeScript, Angular, and Bootstrap, and interested in learning and working with React.",
+    "Software Engineer specialized in client-side applications",
+  summary: `I am a Software Engineer with over 14 years of experience building and scaling products, recently leading a team of frontend engineers to deliver a high-performance web app that set us apart from the competition. 
+  
+As I've expanded into fullstack development, I'm drawn to AI tooling and agentic workflows that are transforming modern software engineering, using my expertise in frontend technologies to implement modern, accessible, and performant solutions.`,
   avatarUrl: "https://avatars.githubusercontent.com/u/1605754",
   personalWebsiteUrl: "https://christianboyle.com",
   contact: {
@@ -39,7 +41,7 @@ export const RESUME_DATA = {
       company: "Symplicity",
       link: "https://symplicity.com",
       badges: ["Remote"],
-      title: "Software Engineer → Software Engineer III",
+      title: "Software Engineer → Software Engineer IV",
       start: "2011",
       end: "Current",
       description:

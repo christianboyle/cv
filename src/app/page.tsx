@@ -94,7 +94,7 @@ export default function Page() {
         </div>
         <Section>
           <h2 className="text-xl font-bold">About</h2>
-          <p className="text-pretty font-mono text-sm text-muted-foreground">
+          <p className="text-pretty font-mono text-sm text-muted-foreground whitespace-pre-wrap">
             {RESUME_DATA.summary}
           </p>
         </Section>
