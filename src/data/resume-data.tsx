@@ -65,7 +65,8 @@ As I've expanded into fullstack development, I'm drawn to AI tooling and agentic
     "Angular",
     "Linux",
     "Docker",
-    "Storybook",
+    "Git",
+    "Agile"
   ],
   projects: [
     {
