@@ -7,7 +7,7 @@ export const RESUME_DATA = {
   locationLink: "https://www.google.com/maps/place/Fairway,+KS",
   about:
     "Software Engineer specialized in client-side applications",
-  summary: `I am a Software Engineer with over 14 years of experience building and scaling products, recently leading a team of frontend engineers to deliver a high-performance web app that set us apart from the competition. 
+  summary: `I am a Software Engineer with extensive experience building and scaling products, recently leading a team of frontend engineers to deliver a high-performance web app that set us apart from the competition. 
   
 As I've expanded into fullstack development, I'm drawn to AI tooling and agentic workflows that are transforming modern software engineering, using my expertise in frontend technologies to implement modern, accessible, and performant solutions.`,
   avatarUrl: "https://avatars.githubusercontent.com/u/1605754",
